@@ -1,0 +1,53 @@
+{
+	"id": "0959237e-ced6-46a0-a93e-ee90bc5b92ed",
+	"createdAt": "2024-11-13T10:29:37.623Z",
+	"createdBy": "admin",
+	"git": {
+		"remote": "https://github.com/2C-Solution/neptune-github-connection.git"
+	},
+	"name": "test",
+	"description": null,
+	"ver": "24.11.13.1041",
+	"enableCICD": true,
+	"apps": [],
+	"api": [],
+	"odataSource": [],
+	"odataMock": [],
+	"dictionary": [],
+	"jsclass": [
+		{
+			"id": "8a43f2e4-e219-4e00-92a5-2bcee2bfdd81",
+			"name": "asd",
+			"description": null
+		}
+	],
+	"jsscript_group": [
+		{
+			"id": "50559b56-0f11-41b9-bbd4-5921e2360c2a",
+			"name": "git_conn",
+			"description": ""
+		}
+	],
+	"theme": [],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [],
+	"category": [],
+	"launchpad": [],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"department": [],
+	"script_scheduler": [],
+	"wf_definition": [],
+	"connector": [],
+	"events": [],
+	"code_snippets": [],
+	"wf_determination": [],
+	"wf_taskaction": []
+}

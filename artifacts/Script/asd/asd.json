@@ -1,0 +1,21 @@
+{
+	"id": "8a43f2e4-e219-4e00-92a5-2bcee2bfdd81",
+	"createdAt": "2024-11-13T10:30:22.659Z",
+	"createdBy": "admin",
+	"globalScripts": [],
+	"externalModules": [],
+	"entitySets": [],
+	"apis": [],
+	"name": "asd",
+	"ver": "24.11.13.1030",
+	"description": null,
+	"folder": "",
+	"content": "file:///content.js",
+	"useAsGlobalScript": false,
+	"transpiledContent": null,
+	"lastRunSuccessful": false,
+	"isTypescript": false,
+	"language": "javascript",
+	"jsscriptGroup": "50559b56-0f11-41b9-bbd4-5921e2360c2a",
+	"package": "0959237e-ced6-46a0-a93e-ee90bc5b92ed"
+}
