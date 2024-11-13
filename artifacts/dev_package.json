@@ -7,7 +7,7 @@
 	},
 	"name": "test",
 	"description": null,
-	"ver": "24.11.13.1041",
+	"ver": "24.11.13.1045",
 	"enableCICD": true,
 	"apps": [],
 	"api": [],
